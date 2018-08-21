@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi!
+my name is zhang zhuomin, from hunan province PRC.
